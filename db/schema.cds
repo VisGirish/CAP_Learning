@@ -2,7 +2,7 @@ namespace app.CAP_Learning;
 using { Language, managed  } from '@sap/cds/common';
 
 
-type String50 : String(51);
+type String50 : String(50);
 type String10 : String(10);
 
 entity Categories{
